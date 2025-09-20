@@ -14,7 +14,7 @@ Text cleaning (removing stopwords, punctuation, special characters)
 Tokenization
 Vectorization using CountVectorizer
 
-2) Technologies Used
+2) TECHNOLOGIES USED:
 Python 
 Libraries:
 pandas – for data handling
